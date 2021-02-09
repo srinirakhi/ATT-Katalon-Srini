@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ATT Interview Test</description>
+   <name>ATTTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a96bb436-5699-4ec3-b687-c316a82887c7</testCaseGuid>
+</TestCaseEntity>
